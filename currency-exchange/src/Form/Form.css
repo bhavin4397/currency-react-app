@@ -1,0 +1,29 @@
+.error{
+    color:red
+}
+
+.container{
+    width: 350px;
+    height:300px;
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 15px;
+    margin: 80px auto;
+    padding: 20px;
+    text-align: left;
+    background-color: rgba(0, 143, 251, 0.2);
+}
+.section{
+    background-image: url("https://img.freepik.com/premium-photo/many-gold-coins-glass-white-background_44277-2968.jpg?w=2000");
+    background-size: 100% 95% ;
+}
+.btn1{
+    width: 100%;
+    
+}
+
+.header{
+    background-color: rgba(0, 143, 251, 0.85);
+    font-weight: bold;
+    font-size: 25px;
+}
+
