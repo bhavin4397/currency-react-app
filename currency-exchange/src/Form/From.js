@@ -9,13 +9,13 @@ const Form = (props) => {
 
 
 
-    return (<div class="card text-center section">
-        <div class="card-header header">
+    return (<div className="card text-center section">
+        <div className="card-header header">
             Best Currancy Exchange Rate
         </div>
-        <div class="card-body">
-            <h5 class="card-title">Special Exchange Rate</h5>
-            <p class="card-text">Lorem ipsum With supporting text below as a natural lead-in to additional content.</p>
+        <div className="card-body">
+            <h5 className="card-title">Special Exchange Rate</h5>
+            <p className="card-text">Lorem ipsum With supporting text below as a natural lead-in to additional content.</p>
             
             
             <div className='container'>
@@ -37,7 +37,7 @@ const Form = (props) => {
 
             </div>
         </div>
-        <div class="card-footer text-muted foot">
+        <div className="card-footer text-muted foot">
         ©CopyRight 2022-2023
         </div>
     </div>

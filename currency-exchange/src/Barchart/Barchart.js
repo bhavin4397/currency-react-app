@@ -7,9 +7,7 @@ const Barchart = (props) => {
 
     const { CAD, CNY, INR, AED, GBP } = props.list
     const currData = [CAD, CNY, INR, AED, GBP]
-    // const update=currData.map((obj)=>{
-    //     return (obj.toFixed(2))
-    // })
+    
     const currName = ["Canada(CAD)", "China(CNY)", "India(INR)", "UAE(AED)", "Switzerland(GBP)"]
 
 
